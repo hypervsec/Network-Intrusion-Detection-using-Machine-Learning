@@ -43,7 +43,7 @@ Projenin amacı normal ve zararlı ağ aktivitelerini ayırt ederek olası sald�
 
 ### Confusion Matrix
 
-![Model_performance]
+
 <img width="903" height="423" alt="image" src="https://github.com/user-attachments/assets/eeefce6b-dc56-422a-8bfd-0e120dfe2de4" />
 
 
@@ -51,7 +51,7 @@ Projenin amacı normal ve zararlı ağ aktivitelerini ayırt ederek olası sald�
 
 ### Confusion Matrix
 
-![Confusion Matrix]
+
 <img width="941" height="365" alt="image" src="https://github.com/user-attachments/assets/8e8a7285-b72a-49ac-a453-ad3d4318247d" />
 
 ---
